@@ -29,6 +29,6 @@ II'm an IT specialist living in The Bahamas, that deals with hardware and softwa
 
 ![TheOneAndOnlyHolyBread's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=github-readme-stats)](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=TheOneAndOnlyHolyBreadKing)](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing)
 
 #
