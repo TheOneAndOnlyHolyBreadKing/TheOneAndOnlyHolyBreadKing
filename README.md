@@ -24,3 +24,11 @@ II'm an IT specialist living in The Bahamas, that deals with hardware and softwa
 <br />
 
 #
+
+### 📊 Stats
+
+![TheOneAndOnlyHolyBread's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&show_icons=true&theme=Gradient)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=TheOneAndOnlyHolyBreadKing&theme=Gradient&border_radius=4.5) -->
+
+#
