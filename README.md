@@ -27,6 +27,6 @@ II'm an IT specialist living in The Bahamas, that deals with hardware and softwa
 
 ### 📊 Stats
 
-![TheOneAndOnlyHolyBread's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&show_icons=true&theme=gruvbox)
+![TheOneAndOnlyHolyBread's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&show_icons=true&theme=gruvbox&theme=transparent)
 
 #
