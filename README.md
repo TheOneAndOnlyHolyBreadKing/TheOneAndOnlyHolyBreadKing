@@ -1,4 +1,4 @@
-# 🍞 TheOneAndOnlyHolyBreadKing
+# 🍞 S.Bullard
 
 **`The IT Guy (Hardware/Developer)`**
 
@@ -29,6 +29,16 @@ II'm an IT specialist living in The Bahamas, that deals with hardware and softwa
 
 ![TheOneAndOnlyHolyBread's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&show_icons=true&theme=radical)
 
+---
+
+### 🗃️ Repositories
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=TheOneAndOnlyHolyBreadKing&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing)
 
-#
+---
+
+<details>
+ <summary><h3>👨‍💻 S.Bullard Coding Journey</h3></summary>
+   My fascination with coding began after exploring Linux several years ago and dabbling in a few college courses. As I delved into Docker, HTML, and CSS, I found myself eager to learn more, eventually discovering the world of React and Next.js. I'm continuously striving to master these technologies and enhance my abilities. Ultimately, I aspire to expand my skillset and create projects that can significantly impact people's lives in The Bahamas – and perhaps even the world one day.
+
+[website]: coming soon!!!
