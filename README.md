@@ -34,11 +34,13 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 ### 🗃️ Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=TheOneAndOnlyHolyBreadKing&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=Wordpress-Apache-Docker&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/Wordpress-Apache-Docker)
+
 
 ---
 
 <details>
  <summary><h3>👨‍💻 S.Bullard Coding Journey</h3></summary>
-   My fascination with coding began after exploring Linux several years ago and dabbling in a few college courses. As I delved into Docker, HTML, and CSS, I found myself eager to learn more, eventually discovering the world of React and Next.js. I'm continuously striving to master these technologies and enhance my abilities. Ultimately, I aspire to expand my skillset and create projects that can significantly impact people's lives in The Bahamas – and perhaps even the world one day.
+   My fascination with coding began after exploring Linux several years ago and dabbling in a few college courses. As I delved into Docker, HTML, and CSS, I found myself eager to learn more, eventually discovering the world of React and Next.js. I'm continuously striving to master these technologies and enhance my abilities. Ultimately, I aspire to expand my skill set and create projects that can significantly impact people's lives in The Bahamas – and perhaps even the world one day.
 
 [website]: coming soon!!!
