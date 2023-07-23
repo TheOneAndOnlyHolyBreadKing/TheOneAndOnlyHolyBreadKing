@@ -1,4 +1,4 @@
-# 🍞 S.Bullard
+# 🍞 TheOneAndOnlyHolyBreadKing
 
 **`The IT Guy, A.K.A Professor🤓 (Hardware/Developer)`**
 
@@ -40,7 +40,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 ---
 
 <details>
- <summary><h3>👨‍💻 S.Bullard Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 TheOneAndOnlyHolyBreadKing Coding Journey</h3></summary>
    My fascination with coding began after exploring Linux several years ago and dabbling in a few college courses. As I delved into Docker, HTML, and CSS, I found myself eager to learn more, eventually discovering the world of React and Next.js. I'm continuously striving to master these technologies and enhance my abilities. Ultimately, I aspire to expand my skill set and create projects that can significantly impact people's lives in The Bahamas – and perhaps even the world one day.
 
 [website]: coming soon!!!
