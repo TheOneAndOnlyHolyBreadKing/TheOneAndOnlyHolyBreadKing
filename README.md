@@ -52,7 +52,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <img alt="Vultr" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331636/vultr.svg" />
 <img alt="Canva" width="60px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
 <img alt="Krita" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" />
-<img alt="Aseprite" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/329985/aseprite.svg" />
+<img alt="Aseprite" width="60px" style="padding-right:10px;" src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" />
 
 
 </div>
