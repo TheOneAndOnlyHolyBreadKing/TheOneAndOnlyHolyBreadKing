@@ -67,7 +67,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 ---
 <div align="center">
   
-(https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing/blob/main/images/Graph%20github.gif?raw=true)
+![stats_banner](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing/blob/main/images/Graph%20github.gif?raw=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheOneAndOnlyHolyBreadKing&theme=radical&hide_border=false)<br/>
