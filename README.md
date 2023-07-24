@@ -25,5 +25,5 @@
 
 ----
 
-<a href="https://www.buymeacoffee.com/The1AndOnlyHolyBreadKing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important; padding-left: 40px;" ></a>
+<a href="https://www.buymeacoffee.com/The1AndOnlyHolyBreadKing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important; justify-content: center;" ></a>
 
