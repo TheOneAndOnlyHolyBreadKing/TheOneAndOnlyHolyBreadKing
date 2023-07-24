@@ -48,9 +48,9 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <img alt="MariaDB" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354039/mariadb.svg" />
 <img alt="Redis" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
 <img alt="Supabase" width="60px" style="padding-right:10px;" src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" />
-<img alt="Vercel" width="80px" style="padding-left:20px;" src="https://www.svgrepo.com/show/354512/vercel.svg" />
+<img alt="Vercel" width="80px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354512/vercel.svg" />
 <img alt="Vultr" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331636/vultr.svg" />
-<img alt="Canva" width="80px" style="padding-right:10px;" src="https://logolook.net/wp-content/uploads/2021/07/Canva-Logo.svg" />
+<img alt="Canva" width="100px" style="padding-right:10px;" src="https://logolook.net/wp-content/uploads/2021/07/Canva-Logo.svg" />
 <img alt="Krita" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" />
 <img alt="Aseprite" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/329985/aseprite.svg" />
 
