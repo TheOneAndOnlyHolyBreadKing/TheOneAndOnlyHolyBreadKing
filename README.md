@@ -1,4 +1,4 @@
-<div align=center>
+<div align="center">
   
 <a href="https://www.buymeacoffee.com/The1AndOnlyHolyBreadKing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 130px !important;" ></a>   [![](https://visitcount.itsvg.in/api?id=TheOneAndOnlyHolyBreadKing&icon=0&color=6)](https://visitcount.itsvg.in) 
   
@@ -15,7 +15,7 @@
 As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce innovative technologies and ideas to our nation, fostering its advancement and contributing to the overall improvement of the lives of my fellow Bahamians.
 
 ## 🌐 Socials:
-<div align=center>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandugan-bullard/) 
 
@@ -30,7 +30,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 </div>
 <br>
 
-<div align=center >
+<div align="center" >
   
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -54,7 +54,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 ---
 
-<div align=center>
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheOneAndOnlyHolyBreadKing&theme=radical&hide_border=false)<br/>
@@ -66,7 +66,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 ---
 
-<div align=center>
+<div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=TheOneAndOnlyHolyBreadKing&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=Wordpress-Apache-Docker&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/Wordpress-Apache-Docker)
@@ -74,21 +74,21 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 </div>
 
 ## 🏆 GitHub Trophies:
-<div align=center>
+<div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=TheOneAndOnlyHolyBreadKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
 ## ✍️ Random Dev Quote:
-<div align=center>
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ## 🔝 Top Contributed Repo:
-<div align=center>
+<div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
