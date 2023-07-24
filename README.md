@@ -83,7 +83,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=TheOneAndOnlyHolyBreadKing&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=Wordpress-Apache-Docker&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/Wordpress-Apache-Docker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=Wordpress-Docker&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/Wordpress-Apache-Docker)
 
 </div>
 
