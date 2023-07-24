@@ -56,21 +56,30 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 </div>
 
-## 🏆 GitHub Trophies
+### 🗃️ Repositories
+
+<div align=center>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=TheOneAndOnlyHolyBreadKing&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheOneAndOnlyHolyBreadKing&repo=Wordpress-Apache-Docker&theme=radical)](https://github.com/TheOneAndOnlyHolyBreadKing/Wordpress-Apache-Docker)
+
+</div>
+
+## 🏆 GitHub Trophies:
 <div align=center>
 
 ![](https://github-profile-trophy.vercel.app/?username=TheOneAndOnlyHolyBreadKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote:
 <div align=center>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 <div align=center>
 
 ![](https://github-contributor-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&limit=5&theme=dark&combine_all_yearly_contributions=true)
