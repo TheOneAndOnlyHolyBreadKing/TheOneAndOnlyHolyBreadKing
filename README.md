@@ -6,7 +6,7 @@
 
 ---
 
-![github_cover_banner]()
+![github_cover_banner](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing/blob/main/images/Micro%20Rocket%20IT.gif?raw=true)
 
 <br>
 
