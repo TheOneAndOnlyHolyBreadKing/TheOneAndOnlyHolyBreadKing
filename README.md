@@ -39,12 +39,15 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 </div>
 ### ✍️ Random Dev Quote
+
 <div align=center>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
 ### 🔝 Top Contributed Repo
+
 <div align=center>
 
 ![](https://github-contributor-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&limit=5&theme=dark&combine_all_yearly_contributions=true)
