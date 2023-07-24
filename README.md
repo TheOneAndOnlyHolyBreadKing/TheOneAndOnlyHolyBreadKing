@@ -14,14 +14,17 @@
 
 As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce innovative technologies and ideas to our nation, fostering its advancement and contributing to the overall improvement of the lives of my fellow Bahamians.
 
-## 🌐 Socials:
+### 🌐 Socials:
 <div align=center>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandugan-bullard/) 
 
 </div>
 
-## 🧰 Languages and Tools
+### 🧰 Languages and Tools
+
+<div align=center >
+
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -34,9 +37,11 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+</div>
+<br>
 <br>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
