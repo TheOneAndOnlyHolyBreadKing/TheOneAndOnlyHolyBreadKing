@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=TheOneAndOnlyHolyBreadKing&icon=0&color=6)](https://visitcount.itsvg.in)
+---
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -21,8 +23,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=TheOneAndOnlyHolyBreadKing&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 <a href="https://www.buymeacoffee.com/The1AndOnlyHolyBreadKing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
