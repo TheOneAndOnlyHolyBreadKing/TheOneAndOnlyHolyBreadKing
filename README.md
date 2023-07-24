@@ -94,14 +94,8 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 </div>
 
-## ✍️ Random Dev Quote:
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 🔝 Top Contributed Repo:
+🔝 Top Contributed Repo:
+---
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -109,6 +103,11 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 ![snake](https://raw.githubusercontent.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing/65cc4738ac38c1768e71627040c7a38e7cfe3ea8/github-contribution-grid-snake.svg)
 
-###
+## ✍️ Random Dev Quote:
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 </div>
