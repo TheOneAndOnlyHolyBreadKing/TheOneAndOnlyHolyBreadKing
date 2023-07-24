@@ -104,4 +104,8 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 ![](https://github-contributor-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://raw.githubusercontent.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing/output/snake.svg" alt="Snake animation" />
+
+###
+
 </div>
