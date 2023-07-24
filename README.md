@@ -5,9 +5,6 @@
 As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce innovative technologies and ideas to our nation, fostering its advancement and contributing to the overall improvement of the lives of my fellow Bahamians.
 
 ---
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandugan-bullard/) 
----
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -46,3 +43,8 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
    My fascination with coding began after exploring Linux several years ago and dabbling in a few college courses. As I delved into Docker, HTML, and CSS, I found myself eager to learn more, eventually discovering the world of React and Next.js. I'm continuously striving to master these technologies and enhance my abilities. Ultimately, I aspire to expand my skill set and create projects that can significantly impact people's lives in The Bahamas – and perhaps even the world one day.
 
 [website]: coming soon!!!
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandugan-bullard/) 
