@@ -5,7 +5,9 @@
 As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce innovative technologies and ideas to our nation, fostering its advancement and contributing to the overall improvement of the lives of my fellow Bahamians.
 
 ---
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandugan-bullard/) 
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
