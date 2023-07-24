@@ -42,17 +42,19 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <img alt="Next.js" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img alt="NodeJS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="Npm" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img alt="Eslint" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
 <img alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img alt="Mysql" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
 <img alt="MariaDB" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354039/mariadb.svg" />
 <img alt="Redis" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
 <img alt="Supabase" width="60px" style="padding-right:10px;" src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" />
+<img alt="Vercel" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354512/vercel.svg" />
+<img alt="Vultr" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354530/vultr.svg" />
 <img alt="Canva" width="60px" style="padding-right:10px;" src="https://logolook.net/wp-content/uploads/2021/07/Canva-Logo.svg" />
 <img alt="Krita" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" />
 <img alt="Aseprite" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/329985/aseprite.svg" />
-<img alt="Eslint" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353709/eslint.sv" />
-<img alt="Vercel" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354512/vercel.svg" />
-<img alt="Vultr" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354530/vultr.svg" />
+
+
 </div>
 <br>
 <br>
