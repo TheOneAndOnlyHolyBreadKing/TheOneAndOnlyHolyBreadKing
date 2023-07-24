@@ -7,7 +7,6 @@
 ---
 
 # 🍞 TheOneAndOnlyHolyBreadKing
-
 **`The IT Guy, A.K.A Professor🤓 (Hardware/Developer)`**
 
 As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce innovative technologies and ideas to our nation, fostering its advancement and contributing to the overall improvement of the lives of my fellow Bahamians.
