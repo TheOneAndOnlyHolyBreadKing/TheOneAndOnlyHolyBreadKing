@@ -50,7 +50,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <img alt="Supabase" width="60px" style="padding-right:10px;" src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" />
 <img alt="Vercel" width="80px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354512/vercel.svg" />
 <img alt="Vultr" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331636/vultr.svg" />
-<img alt="Canva" width="100px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
+<img alt="Canva" width="60px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
 <img alt="Krita" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" />
 <img alt="Aseprite" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/329985/aseprite.svg" />
 
