@@ -36,8 +36,6 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 <br>
 
-#
-
 # 📊 GitHub Stats:
 <div align=center>
 
