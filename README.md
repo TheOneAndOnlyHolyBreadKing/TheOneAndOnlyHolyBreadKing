@@ -21,7 +21,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 </div>
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools:
 
 ---
 
@@ -44,6 +44,9 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <br>
 
 ### 📊 GitHub Stats:
+
+---
+
 <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
