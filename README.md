@@ -48,7 +48,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <img alt="MariaDB" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354039/mariadb.svg" />
 <img alt="Redis" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
 <img alt="Supabase" width="60px" style="padding-right:10px;" src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" />
-<img alt="Vercel" width="80px" style="padding-right:10px;" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" />
+<img alt="Vercel" width="60px" style="padding-right:10px;" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" />
 <img alt="Vultr" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331636/vultr.svg" />
 <img alt="Canva" width="60px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
 <img alt="Krita" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" />
