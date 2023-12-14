@@ -53,7 +53,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <img alt="Canva" width="60px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
 <img alt="Krita" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" />
 <img alt="Aseprite" width="60px" style="padding-right:10px;" src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" />
-
+<img alt="Go" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/-im_0WdlVkbR2OkjH3ibGP9OrcDfKk261KTVUy9QBrs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nby5k/ZXYvaW1hZ2VzL2dv/LWxvZ28tYmx1ZS5z/dmc.svg"/>
 
 </div>
 <br>
