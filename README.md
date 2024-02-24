@@ -33,23 +33,17 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 
 <div align="center" >
 <img alt="Go" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/-im_0WdlVkbR2OkjH3ibGP9OrcDfKk261KTVUy9QBrs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nby5k/ZXYvaW1hZ2VzL2dv/LWxvZ28tYmx1ZS5z/dmc.svg"/>  
-<img alt="TypeScript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img alt="Arduino" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/95n9hJdY0wGi1gjhBKJPN97t13WOK31RMVQ7O62_6Ms/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9hcmR1aW5vLTEu/c3Zn.svg"
 <img alt="HTML" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="TailwindCSS" width="110px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img alt="React" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="Docker" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  />
-<img alt="Next.js" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img alt="NodeJS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="Npm" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img alt="Eslint" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-<img alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img alt="Mysql" width="80px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
 <img alt="MariaDB" width="80px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354039/mariadb.svg" />
 <img alt="Redis" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
-<img alt="Vercel" width="60px" style="padding-right:10px;" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" />
 <img alt="Vultr" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331636/vultr.svg" />
 <img alt="Canva" width="60px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
 <img alt="Krita" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" />
