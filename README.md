@@ -32,7 +32,7 @@ As the proprietor of MicroRocketIT in The Bahamas, my mission is to introduce in
 <br>
 
 <div align="center" >
-<img alt="Go" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/-im_0WdlVkbR2OkjH3ibGP9OrcDfKk261KTVUy9QBrs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nby5k/ZXYvaW1hZ2VzL2dv/LWxvZ28tYmx1ZS5z/dmc.svg"/>  
+<img alt="Go" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/C6X5rZv-xJFUt6Lh9CWBvKBzmgn_43M44MdZM6jUI7s/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9nb2xhbmctZ29w/aGVyLnN2Zw.svg"/>  
 <img alt="Arduino" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/95n9hJdY0wGi1gjhBKJPN97t13WOK31RMVQ7O62_6Ms/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9hcmR1aW5vLTEu/c3Zn.svg"
 <img alt="HTML" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
