@@ -21,7 +21,7 @@ Founded on the belief that technology should empower, not complicate, we blend i
 
 What sets us apart? We’re not just service providers—we’re collaborators. By staying agile and adaptive, we evolve alongside emerging trends to offer future-ready solutions. From pixel-perfect designs to robust cybersecurity measures, every project is fueled by our commitment to excellence and customer satisfaction.
 
-Let Micro Rocket IT be your launchpad to digital success. Explore the possibilities at [YourWebsite.com] or connect with us today—where technology meets limitless potential.
+Let Micro Rocket IT be your launchpad to digital success. Explore the possibilities by connecting with us today—where technology meets limitless potential.
 
 Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomorrow, together.
 
