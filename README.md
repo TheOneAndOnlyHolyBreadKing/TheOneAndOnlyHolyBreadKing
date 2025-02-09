@@ -94,11 +94,6 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 
 </div>
 
-### 👨‍💻 My Coding Journey
----
-
-A few years ago, my journey into the world of coding began with an intriguing exploration of Linux. This opened the door for me to delve into Docker, HTML, and CSS, building a strong foundation that later led me towards React and Next.js. As I continue to broaden my knowledge and further hone my skills in both React and Next.js, I'm excited to expand my toolkit and create groundbreaking projects that can positively impact the lives of people in The Bahamas—and perhaps even one day, across the globe.
-
 ## ✍️ Random Dev Quote:
 <div align="center">
 
