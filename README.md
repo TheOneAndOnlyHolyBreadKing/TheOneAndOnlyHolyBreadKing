@@ -44,7 +44,7 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 <div align="center" >
 <img alt="Go" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/Gb0hF6tBB1kq_jIQCsg5zfmfU2UexYykCeIV1Zi7MJw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nby5k/ZXYvaW1hZ2VzL2dv/LWxvZ28tYmx1ZS5z/dmc"/> 
 <img alt="Gobot" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/hybridgroup/gobot-site/master/source/images/elements/gobot-logo-small.png" />
-<img alt="Arduino" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/95n9hJdY0wGi1gjhBKJPN97t13WOK31RMVQ7O62_6Ms/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9hcmR1aW5vLTEu/c3Zn.svg"/>
+<img alt="Arduino" width="60px" style="padding-right:10px;" src="https://imgs.search.brave.com/Yoj3lCieOi1GdV6_fikue_O2UFHs39rbGnB00cRun5Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/Lzg3L0FyZHVpbm9f/TG9nby5zdmc"/>
 <img alt="HTML" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="TailwindCSS" width="110px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
