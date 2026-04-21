@@ -55,12 +55,10 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 <img alt="Mysql" width="80px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
 <img alt="MariaDB" width="80px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354039/mariadb.svg" />
 <img alt="Redis" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
-<img alt="Vultr" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331636/vultr.svg" />
-<img alt="Canva" width="60px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" />
-<img alt="Krita" width="60px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" />
-<img alt="Aseprite" width="60px" style="padding-right:10px;" src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" />
-
-
+<img alt="Firebase" width="60px" style="padding-right:10px;" src="https://firebase.google.com/brand-guidelines" />
+<img alt="Gemini" width="60px" style="padding-right:10px;" src="https://community.pepperdine.edu/it/tools/gsuite/gemini.htm" />
+<img alt="Antigravity" width="60px" style="padding-right:10px;" src="https://www.linkedin.com/showcase/google-antigravity/" />
+  
 </div>
 <br>
 <br>
