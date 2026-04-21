@@ -29,7 +29,7 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 <div align="center">
 
 -Linkdin:
-<div -X: https://x.com/MicroRocketIT <div/>
+<div "-X: https://x.com/MicroRocketIT" <div/>
 -TikTok:
 -Instagram:
 
