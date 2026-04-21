@@ -27,7 +27,8 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 
 ## 🌐 Socials:
 <div align="center">
-
+  
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FMicroRocketIT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandugan-bullard/) 
 
 </div>
