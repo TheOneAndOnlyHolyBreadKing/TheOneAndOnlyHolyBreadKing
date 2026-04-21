@@ -56,7 +56,7 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 <img alt="MariaDB" width="80px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354039/mariadb.svg" />
 <img alt="Redis" width="60px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
 <img alt="Firebase" width="60px" style="padding-right:10px;" src="https://firebase.google.com/brand-guidelines" />
-<img alt="Gemini" width="60px" style="padding-right:10px;" src="https://community.pepperdine.edu/it/tools/gsuite/gemini.htm" />
+<img alt="Gemini" width="60px" style="padding-right:10px;" src="https://lh3.googleusercontent.com/1E500rkSh8Gqkz2l12tkrKkMgsDmbQot0h3afeiRukXNficphb2zEE8o6J3dSKkiDGOOCcQ8WtRYzEYudgiYK9FkoQeYg_SP92-C=e365-pa-nu-w1200-rj" />
 <img alt="Antigravity" width="60px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_200_200/B56ZqUSJh0I4AM-/0/1763424377586/google_antigravity_logo?e=2147483647&v=beta&t=09EGMp77uIgS77oquLNRli_4mMEV8oGvXklIXLBP6YM" />
   
 </div>
