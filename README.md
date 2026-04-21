@@ -28,10 +28,11 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 ## 🌐 Socials:
 <div align="center">
 
--Linkdin:
-<div "-X: https://x.com/MicroRocketIT" <div/>
--TikTok:
--Instagram:
+-Linkdin: https://www.linkedin.com/in/sandugan-bullard/
+-X: https://x.com/MicroRocketIT"
+-TikTok: https://www.tiktok.com/@microrocketit242
+-Instagram: https://www.instagram.com/microrocketit/
+-Facebook: https://www.facebook.com/profile.php?id=61568370251812
 
 </div>
 
@@ -84,7 +85,7 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 ## 🏆 GitHub Trophies:
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=TheOneAndOnlyHolyBreadKing&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
