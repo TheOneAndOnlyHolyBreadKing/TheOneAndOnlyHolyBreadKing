@@ -82,20 +82,6 @@ Ready to accelerate your vision? Contact Miocro Rocket IT and let’s build tomo
 
 </div>
 
-## 🏆 GitHub Trophies:
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheOneAndOnlyHolyBreadKing&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🔝 Top Contributed Repo:
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=TheOneAndOnlyHolyBreadKing&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
 ## ✍️ Random Dev Quote:
 <div align="center">
 
