@@ -9,7 +9,7 @@
 
 ---
 
-![nebula_dashboard_banner](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing/blob/main/images/nebula_dashboard_hero.png?raw=true)
+![github_cover_banner](https://github.com/TheOneAndOnlyHolyBreadKing/TheOneAndOnlyHolyBreadKing/blob/main/images/Micro%20Rocket%20IT.gif?raw=true)
 
 </div>
 
