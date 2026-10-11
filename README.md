@@ -28,7 +28,7 @@ At **Micro Rocket IT**, we are more than service providers—we are collaborator
 ## 📡 [ COMMUNICATION CHANNELS ]
 <div align="center">
 
-[[ **LINKEDIN** ](https://www.linkedin.com/in/sandugan-bullard/)] &nbsp; [[ **X / TWITTER** ](https://x.com/MicroRocketIT)] &nbsp; [[ **TIKTOK** ](https://www.tiktok.com/@microrocketit242)] &nbsp; [[ **INSTAGRAM** ](https://www.instagram.com/microrocketit)] &nbsp; [[ **FACEBOOK** ](https://www.facebook.com/profile.php?id=61568370251812)]
+[[ **LINKEDIN** ](https://www.linkedin.com/in/sandugan-bullard/)] &nbsp; [[ **INSTAGRAM** ](https://www.instagram.com/microrocketit)] &nbsp; [[ **FACEBOOK** ](https://www.facebook.com/profile.php?id=61568370251812)]
 
 </div>
 
